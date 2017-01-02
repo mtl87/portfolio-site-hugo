@@ -1,0 +1,30 @@
+section
+  width: 100%
+.container
+  display: flex
+  flex-wrap: wrap
+  max-width: 100%
+  margin: 0 20px
+  @media #{$min-tablet}
+    max-width: 620px
+    margin: 0 auto
+  @media #{$min-desktop}
+    max-width: 920px
+  @media #{$min-hd}
+    max-width: 1024px
+  img
+    width: 100%
+  .col-2, .col-3, .col-4,.col-2-3rd,.col-1-3rd
+    width: 100%
+  @media #{$min-tablet}
+    .col-2
+      width: 50%
+    .col-3
+      width: 33%
+    .col-4
+      width: 25%
+  @media #{$min-desktop}
+    .col-2-3rd
+      width: 66.666%
+    .col-1-3rd
+      width: 33.333%

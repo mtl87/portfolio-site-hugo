@@ -7,7 +7,7 @@ publishDir = "public"
 paginate = 10
 copyright = "© 2017 Copyright Text"
 canonifyurls = true
-baseurl = "http://mtl87.github.io/portfolio-site"
+baseurl = "https://mtl87.github.io"
 googleAnalytics = "Your Tracking Id"
 homepagecover = "img/cat3.jpg"
 

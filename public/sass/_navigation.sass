@@ -1,0 +1,75 @@
+header
+  min-height: 80px
+  display: flex
+  align-items: center
+  font-size: 14px
+  font-size: 1.4rem
+  &.home
+    position: absolute
+    z-index: 100
+    width: 100%
+    top: 0
+    left: 0
+    .logomark
+      svg
+        fill: $white
+    nav
+      li
+        a
+          color: $white
+  @media #{$min-tablet}
+    .container
+      position: relative
+      display: flex
+      justify-content: center
+  .logomark
+    padding-top: 20px
+    @media #{$min-tablet}
+      padding-top: 0
+  .logomark, nav
+    display: block
+    width: 100%
+    text-align: center
+    @media #{$min-tablet}
+      display: inline-block
+      width: initial
+  nav
+    @media #{$min-tablet}
+      position: absolute
+      right: 0
+      top: 50%
+      transform: translateY(-50%)
+
+nav
+  padding: 10px 0
+  @media #{$min-tablet}
+    padding: 0
+  ul
+    margin: 0
+    padding: 0
+  li
+    display: inline
+    margin: 0 5px
+    -webkit-font-smoothing: antialiased
+    -moz-osx-font-smoothing: grayscale
+    a
+      padding: 7px 15px
+    &.resume
+      a
+        @media #{$min-tablet}
+          background: rgba(255,255,255,.2)
+          border-radius: $br
+          transition: $normal-speed
+          &:hover
+            background: rgba(255,255,255,.4)
+
+footer
+  width: 100%
+  background: $faint-grey
+  padding: 44px 0
+  font-family: $secondary-font
+  color: $charcoal
+  font-size: 14px
+  font-size: 1.4rem
+  a
+    font-weight: $bold

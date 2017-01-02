@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent-works on Matthew Landers - Design &#43; Code</title>
+    <link>https://mtl87.github.io/recent-work/</link>
+    <description>Recent content in Recent-works on Matthew Landers - Design &#43; Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 Copyright Text</copyright>
+    <lastBuildDate>Thu, 29 Dec 2016 22:29:53 -0400</lastBuildDate>
+    <atom:link href="https://mtl87.github.io/recent-work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BWH Burn App</title>
+      <link>https://mtl87.github.io/recent-work/bwh-burn-app/</link>
+      <pubDate>Thu, 29 Dec 2016 22:29:53 -0400</pubDate>
+      
+      <guid>https://mtl87.github.io/recent-work/bwh-burn-app/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;CAPA is Boston-based study abroad network with offices in 6 international cities. CAPA’s website caters to a wide range of users, providing trip details for prospective students, pre-departure and international living information for prospective students and their parents, as well as sales support tools for study abroad offices at colleges. CAPA approached our team with the goal of streamlining and harmonizing their web platform, which was a patchwork of multiple microsites and portals aimed at these distinct user groups.&lt;/p&gt;
+
+&lt;h2 id=&#34;strategy&#34;&gt;Strategy&lt;/h2&gt;
+
+&lt;p&gt;We interviewed CAPA stakeholders to understand the goals of their microsite, and analyzed the website to understand where it fell short of those goals. CAPA’s website is intended to be a resource for its users, and it housed a huge amount of information. However, on the user end, the site was difficult to navigate: not optimized for mobile, and confusing with its flat content architecture. On the admin end, the site was very hard to update, with its diverse templates and information portals.&lt;/p&gt;
+
+&lt;p&gt;Based on our observations, I campaigned for a total content re-map as a first step. I brainstormed new maps that bucketed content into broad themes of user-specific information. This laid the foundation for a more coherent design process.&lt;/p&gt;
+
+&lt;p&gt;We utilized InvisionApp to build our site prototypes and demo them to the CAPA team. After receiving immediate approval, we wrapped up final high-fidelity mockups and built out pattern library for new microsite templates.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meeting with all CAPA microsite stakeholders to understand needs and current limitations&lt;/li&gt;
+&lt;li&gt;Re-map content and sitemap to become a single portal for new content&lt;/li&gt;
+&lt;li&gt;Devise a development strategy&lt;/li&gt;
+&lt;li&gt;Prototype designs and present to stakeholders&lt;/li&gt;
+&lt;li&gt;Create high fidelity mockups and style guide&lt;/li&gt;
+&lt;li&gt;Develop&lt;/li&gt;
+&lt;li&gt;QA test and launch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/capa/capa-tablet.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;Within a short period of time, CAPA&amp;rsquo;s new microsite system launched on our new WordPress build. The new platform now hosts over 80 separate microsites&amp;rsquo; content in one CMS, greatly streamlining content management and brand cohesiveness. The success of this project also opened the door to an opportunity for a main site redesign, currently in development at ADK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conviser Rebrand</title>
+      <link>https://mtl87.github.io/recent-work/conviser-redesign/</link>
+      <pubDate>Thu, 01 Dec 2016 22:29:53 -0400</pubDate>
+      
+      <guid>https://mtl87.github.io/recent-work/conviser-redesign/</guid>
+      <description>&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RIBC Redesign</title>
+      <link>https://mtl87.github.io/recent-work/ribc/</link>
+      <pubDate>Thu, 15 Sep 2016 07:44:09 -0400</pubDate>
+      
+      <guid>https://mtl87.github.io/recent-work/ribc/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Rhode Island Blood Center (RIBC) is Rhode Island&amp;rsquo;s foremost provider of life-saving blood. Despite being one of the region&amp;rsquo;s most active blood banks, its website-driven donations were underwhelming. RIBC approached ADK with the vision of expanding its life-saving impact by revitalizing their digital platform - building creating modern gateway through which to raise awareness, connect with potential donors, and facilitate donations in a more intuitive and human way.&lt;/p&gt;
+
+&lt;h2 id=&#34;strategy&#34;&gt;Strategy&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Accessibility:&lt;/strong&gt; facilitate awareness-building and donations with a clean, intuitive, informative, and responsive web platform&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Community:&lt;/strong&gt; feature stories that support, engage, and highlight RIBC&amp;rsquo;s community of workers, donors, and donees.&lt;/p&gt;
+
+&lt;p&gt;Based on this strategy, we remodeled the site&amp;rsquo;s vast content to transform the story of RIBC into one that was more personable and empathetic. From this content, we created an entirely new pattern library for RIBC.org. I developed prototypes to facilitate and test content with stakeholders, and made high fidelity mockups to ensure a confident sign-off and to assist in development.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meeting with all RIBC stakeholders and understanding their needs and current limitations&lt;/li&gt;
+&lt;li&gt;Spent time understanding users and industry&lt;/li&gt;
+&lt;li&gt;Re-develop content into a new content architecture themed around accessibility and community&lt;/li&gt;
+&lt;li&gt;Rapid sketching sessions to map content into wireframes and test through prototyping&lt;/li&gt;
+&lt;li&gt;Design a pattern library and top priority pages&lt;/li&gt;
+&lt;li&gt;Develop full experience&lt;/li&gt;
+&lt;li&gt;QA test and launch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;Within the first few hours of the re-launch, appointments were already being made (through the new in-site sign-up application. A few weeks later, mobile traffic had already increased by over 150%.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capa Microsite</title>
+      <link>https://mtl87.github.io/recent-work/capa-microsite/</link>
+      <pubDate>Thu, 01 Sep 2016 22:29:53 -0400</pubDate>
+      
+      <guid>https://mtl87.github.io/recent-work/capa-microsite/</guid>
+      <description>
+
+&lt;h3 id=&#34;capa-a-study-abroad-program-provider-tasked-the-adk-team-with-streamlining-the-architecture-of-their-vast-collection-of-program-specific-microsites-their-goal-improved-information-architecture-in-house-microsite-creation-capability-and-enhanced-user-experience&#34;&gt;CAPA, a study abroad program provider, tasked the ADK team with streamlining the architecture of their vast collection of program-specific microsites. Their goal: improved information architecture, in-house microsite creation capability, and enhanced user experience.&lt;/h3&gt;
+
+&lt;h4 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h4&gt;
+
+&lt;p&gt;We began with interviewing CAPA stakeholders and gathered a important information on the requirements and purpose of the microsites. Important take aways: microsites would all host unique content in different stages of the application for the college student and some colleges would have their study abroad offices manage the microsite.&lt;/p&gt;
+
+&lt;p&gt;Based on our findings from CAPA interviews and reviewing the current site, I campaigned for a content re-map as a first step. Currently the left navigation was full with one tiered level pages that made for a daunting experience. CAPA team openly approved this and had their team begin bucketing the content.  I brainstormed new maps that bucketed content into broad themes of user-specific information. This laid the foundation for a more coherent design process.&lt;/p&gt;
+
+&lt;h4 id=&#34;wireframing-and-prototyping&#34;&gt;Wireframing and Prototyping&lt;/h4&gt;
+
+&lt;p&gt;I first began sketching designs out of how we could build a less navigation heavy site. to build our site prototypes and demo them to the CAPA team. After receiving immediate approval, we wrapped up final high-fidelity mockups and built out pattern library for new microsite templates.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meeting with all CAPA microsite stakeholders to understand needs and current limitations&lt;/li&gt;
+&lt;li&gt;Re-map content and sitemap to become a single portal for new content&lt;/li&gt;
+&lt;li&gt;Devise a development strategy&lt;/li&gt;
+&lt;li&gt;Prototype designs and present to stakeholders&lt;/li&gt;
+&lt;li&gt;Create high fidelity mockups and style guide&lt;/li&gt;
+&lt;li&gt;Develop&lt;/li&gt;
+&lt;li&gt;QA test and launch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/capa/capa-tablet.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;Within a short period of time, CAPA&amp;rsquo;s new microsite system launched on our new WordPress build. The new platform now hosts over 80 separate microsites&amp;rsquo; content in one CMS, greatly streamlining content management and brand cohesiveness. The success of this project also opened the door to an opportunity for a main site redesign, currently in development at ADK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unbound Commerce</title>
+      <link>https://mtl87.github.io/recent-work/unbound-commerce/</link>
+      <pubDate>Fri, 01 Jul 2016 22:29:53 -0400</pubDate>
+      
+      <guid>https://mtl87.github.io/recent-work/unbound-commerce/</guid>
+      <description>&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

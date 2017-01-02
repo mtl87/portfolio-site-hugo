@@ -1,0 +1,55 @@
+{{ $baseurl := .Site.BaseURL }}
+{{ partial "header.html" . }}
+<div class="blog">
+  <section class="block-title" style="background:{{ with .Params.brand_color }}{{ . }}{{ end }}">
+    <article class="container">
+      {{ with .Params.hero_img }}
+            <img src="{{ . }}" alt="" />
+      {{ end }}
+      {{ with .Params.project_type }}
+        <h1>{{ . }}</h1>
+      {{ end }}
+    </article>
+  </section>
+  <section>
+    <article class="container block-case-study">
+      <div class="col-2-3rd content">
+        <p>
+          {{ if .Params.categories }}
+            {{ range $index , $category := .Params.categories }}
+              <a href="{{ $baseurl }}categories/{{ . | urlize }}">{{ $category }}</a>
+            {{ end }}
+          {{ end }}
+          {{if .Params.tags }}
+            {{ range $index , $tag := .Params.tags }}
+              <a href="{{ $baseurl }}tags/{{ . | urlize }}">#{{ $tag }}</a>
+            {{ end }}
+          {{ end }}
+        </p>
+        {{ .Content }}
+      </div>
+      <div class="col-1-3rd sidebar">
+        {{ with .Params.year }}
+          <h4>Year</h4>
+          <p>{{ . }}</p>
+        {{ end }}
+        {{ with .Params.role }}
+          <h4>Role</h4>
+          <p>{{ . }}</p>
+        {{ end }}
+        {{ with .Params.designed_for }}
+          <h4>Designed For</h4>
+          <p>{{ . }}</p>
+        {{ end }}
+      </div>
+    </article>
+  </section>
+</div>
+{{ if eq .Type "post" }}
+  <br/><br/>
+  <div class="pagination">
+    {{ if .Prev }}<a class="prev" href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>{{ else }}<a></a>{{ end }}
+    {{ if .Next }}<a class="next" href="{{ .Next.Permalink }}">{{ .Next.Title }}</a>{{ else }}<a></a>{{ end }}
+  </div>
+{{ end }}
+{{ partial "footer.html" . }}

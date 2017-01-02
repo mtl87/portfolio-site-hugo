@@ -1,0 +1,45 @@
+languageCode = "en-us"
+title = "Matthew Landers - Design + Code"
+theme = "mlanders"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+paginate = 10
+copyright = "© 2017 Copyright Text"
+canonifyurls = true
+baseurl = "http://mtl87.github.io/portfolio-site"
+googleAnalytics = "Your Tracking Id"
+homepagecover = "img/cat3.jpg"
+
+# Nav
+[[menu.header]]
+  name = "Contact"
+  weight = 1
+  url = "mailto:mlanders87@gmail.com"
+[[menu.header]]
+  name = "Resume"
+  weight = 2
+  url = "#"
+  identifier = "resume"
+
+# Footer Nav
+[[menu.footer]]
+  name = "Resume"
+  weight = 1
+  url = "#"
+[[menu.footer]]
+  name = "LinkedIn"
+  weight = 2
+  url = "https://www.linkedin.com/in/mtlanders"
+[[menu.footer]]
+  name = "Dribbble"
+  weight = 3
+  url = "https://dribbble.com/landahhs"
+[[menu.footer]]
+  name = "GitHub"
+  weight = 4
+  url = "https://github.com/mtl87?tab=overview&from=2016-08-01&to=2016-08-31&utf8=%E2%9C%93"
+[[menu.footer]]
+  name = "Instagram"
+  weight = 5
+  url = "https://www.instagram.com/landahhs/"

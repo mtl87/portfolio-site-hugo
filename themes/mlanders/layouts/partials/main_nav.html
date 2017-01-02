@@ -1,0 +1,8 @@
+<ul>
+  {{ $url := lower .Permalink}}
+  {{ range .Site.Menus.header }}
+    <li class="{{ if eq (len (findRE (lower .URL) $url)) 1 }}is-active{{ end }} {{ .Identifier }}">
+      <a class="tab desktop" href="{{ .URL }}">{{ .Name }}</a>
+    </li>
+  {{ end }}
+</ul>

@@ -1,0 +1,27 @@
+<footer>
+  <section>
+    {{ partial "about.html" . }}
+    <article class="container">
+        <p class="col-3">Copyright © {{ .Now.Year }} <a href="/">Matthew Landers</a><br/>
+        Powered by <a href="https://gohugo.io/">Hugo</a> and Hosted on <a href="https://pages.github.com/">GitPages</a></p>
+        <nav>{{ partial "footer_nav.html" . }}</nav>
+    </article>
+  </section>
+</footer>
+
+          <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-XYSYXYSY-X']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+              var ga = document.createElement('script');
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+                  'http://www') + '.google-analytics.com/ga.js';
+              ga.setAttribute('async', 'true');
+              document.documentElement.firstChild.appendChild(ga);
+            })();
+
+            </script>
+</body>
+</html>

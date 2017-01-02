@@ -1,0 +1,8 @@
+<div class="col-2 {{ with .Params.spotlight_valign }}{{ . }}{{ end }}" style="background:{{ with .Params.brand_color }}{{ . }}{{ end }}">
+  <a href='{{ .Permalink }}'>
+      <h3 class="v-align">{{ .Title }}</h3>
+      {{ with .Params.spotlight_img }}
+            <img src="{{ . }}" alt="" />
+      {{ end }}
+  </a>
+</div>

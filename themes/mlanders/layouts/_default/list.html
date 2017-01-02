@@ -1,0 +1,15 @@
+{{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+{{ partial "header.html" . }}
+<section>
+  <article class="container">
+      <ul>
+        {{ range .Data.Pages }}
+            {{ .Render "li"}}
+        {{ end }}
+      </ul>
+  </article>
+  <div class="container">
+    {{ partial "pagination.html" $paginator }}
+  </div>
+</section>
+{{ partial "footer.html" . }}

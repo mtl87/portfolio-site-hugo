@@ -2,7 +2,7 @@
   {{ $url := lower .Permalink}}
   {{ range .Site.Menus.footer }}
     <li class="{{ if eq (len (findRE (lower .URL) $url)) 1 }}is-active{{ end }}">
-      <a class="tab desktop" href="{{ .URL }}">{{ .Name }}</a>
+      <a class="tab desktop fa fa-{{ .Identifier }}" href="{{ .URL }}"></a>
     </li>
   {{ end }}
 </ul>

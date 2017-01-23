@@ -18,33 +18,17 @@
       <guid>https://mtl87.github.io/recent-work/bwh-burn-app/</guid>
       <description>
 
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;h3 id=&#34;brigham-and-women-s-hospital-bwh-world-renowned-for-their-innovative-burn-care-approached-the-adk-group-to-develop-a-first-of-its-kind-burn-care-app-with-this-app-bwh-aimed-to-help-regional-doctors-triage-and-communicate-with-the-expert-surgeons-at-bwh-s-trauma-and-burn-center-my-role-in-creating-this-app-was-to-deliver-a-full-ux-and-interface-design-for-both-the-native-app-and-web-app-experiences&#34;&gt;Brigham and Women’s Hospital (BWH), world-renowned for their innovative burn care, approached the ADK Group to develop a first-of-its-kind Burn Care App. With this app, BWH aimed to help regional doctors triage and communicate with the expert surgeons at BWH’s Trauma and Burn Center. My role in creating this app was to deliver a full UX and interface design for both the native app and web app experiences.&lt;/h3&gt;
 
-&lt;p&gt;CAPA is Boston-based study abroad network with offices in 6 international cities. CAPA’s website caters to a wide range of users, providing trip details for prospective students, pre-departure and international living information for prospective students and their parents, as well as sales support tools for study abroad offices at colleges. CAPA approached our team with the goal of streamlining and harmonizing their web platform, which was a patchwork of multiple microsites and portals aimed at these distinct user groups.&lt;/p&gt;
+&lt;p&gt;We kicked off this project by meeting with BWH’s technical lead, who presented the overall concept for the app and wireframes of its key screens. Starting the design sprint, I sketched rough wireframes of the ideal user flow for the app. Using a combination of Balsamiq and InvisionApp, I then fleshed out the wireframes into a complete user flow -  from registration prompts all the way to the page functionality. We presented this back to BWH’s team, who approved the user-flow and greenlit the interface design phase.&lt;/p&gt;
 
-&lt;h2 id=&#34;strategy&#34;&gt;Strategy&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/bwh/bwh-sketch.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We interviewed CAPA stakeholders to understand the goals of their microsite, and analyzed the website to understand where it fell short of those goals. CAPA’s website is intended to be a resource for its users, and it housed a huge amount of information. However, on the user end, the site was difficult to navigate: not optimized for mobile, and confusing with its flat content architecture. On the admin end, the site was very hard to update, with its diverse templates and information portals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As time was of the essence for this project, I decided to build an interface off of &lt;a href=&#34;http://facebook.design/ios10&#34;&gt;Facebook’s iOS and Android’s GUI library&lt;/a&gt; rather than design a totally unique app interface.&lt;/strong&gt; By utilizing existing pattern libraries and best practices in native app design, I opened up time for iterative testing and a comprehensive user-flow, and app reviews with the BWH doctors who would be using and referencing the app. In further brainstorming with doctors and client, we were able to discover a better way to deliver burn resource information both when a user is signed out and when they&amp;rsquo;re creating a page. The quick, comprehensive design and clear user-flow of the mobile app also allowed us to rapidly design and develop a desktop version.&lt;/p&gt;
 
-&lt;p&gt;Based on our observations, I campaigned for a total content re-map as a first step. I brainstormed new maps that bucketed content into broad themes of user-specific information. This laid the foundation for a more coherent design process.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/bwh/bwh-resources.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We utilized InvisionApp to build our site prototypes and demo them to the CAPA team. After receiving immediate approval, we wrapped up final high-fidelity mockups and built out pattern library for new microsite templates.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meeting with all CAPA microsite stakeholders to understand needs and current limitations&lt;/li&gt;
-&lt;li&gt;Re-map content and sitemap to become a single portal for new content&lt;/li&gt;
-&lt;li&gt;Devise a development strategy&lt;/li&gt;
-&lt;li&gt;Prototype designs and present to stakeholders&lt;/li&gt;
-&lt;li&gt;Create high fidelity mockups and style guide&lt;/li&gt;
-&lt;li&gt;Develop&lt;/li&gt;
-&lt;li&gt;QA test and launch&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/capa/capa-tablet.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
-
-&lt;p&gt;Within a short period of time, CAPA&amp;rsquo;s new microsite system launched on our new WordPress build. The new platform now hosts over 80 separate microsites&amp;rsquo; content in one CMS, greatly streamlining content management and brand cohesiveness. The success of this project also opened the door to an opportunity for a main site redesign, currently in development at ADK.&lt;/p&gt;
+&lt;p&gt;Overall, the app build was a smashing success, which paved the way for additional projects with Brigham and Women’s Hospital. We are currently working to build a library of related apps for medical surveys and research.&lt;/p&gt;
 </description>
     </item>
     
@@ -54,91 +38,111 @@
       <pubDate>Thu, 01 Dec 2016 22:29:53 -0400</pubDate>
       
       <guid>https://mtl87.github.io/recent-work/conviser-redesign/</guid>
-      <description>&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+      <description>&lt;p&gt;The commercial real estate firm Conviser prides itself on being one of Boston’s best “place-makers”. Specializing in retail spaces for food and apparel, it is one of the region’s most successful brokerages. &lt;strong&gt;Conviser tasked ADK with a rebrand that would better reflect its prestige.&lt;/strong&gt; I was tasked with designing the company’s new logo and managing the brand accoutrements for web and print.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/conviser/conviser-lockup.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For this brand redesign, I wanted to provide a welcoming and approachable application that was underscored by cleanliness and modernity.&lt;/strong&gt; Through my iterative sketching of logotypes, I concluded that a waypoint-inspired letter “C” would be the perfect blend of their name and the placemaking that they do. Conviser requested that I incorporate the color yellow in the logo, which I emphasized with the sharp contrast of black. The end result was a clean and modern brand that emphasized their precision and professionalism.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/conviser/conviser-sketches.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;Early digital sketches&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Once the logo was approved, I built out support print elements (business cards, letterheads and envelopes) along with a new website. I worked hard to bring the new brand colors to life through the website experience, taking advantage of the strong contrast to build out an energizing homepage and portfolio page.  I even got to roll my sleeves up and dig into the site’s front-end code!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/conviser/conviser-bizcard.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The end result was a rebrand that I am proud of, especially as I have heard how pleased CEO Adam Conviser is with it. It feels great to come across the logo in the wild, when I come across a building that is posted for lease.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/conviser/conviser-listing-wireframe.jpg&#34; alt=&#34;alt&#34; /&gt;
+&lt;img src=&#34;https://mtl87.github.io/img/conviser/conviser-listings-page.jpg&#34; alt=&#34;alt&#34; /&gt;
+&lt;img src=&#34;https://mtl87.github.io/img/conviser/conviser-clients.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>RIBC Redesign</title>
+      <title>RIBC.org Redesign</title>
       <link>https://mtl87.github.io/recent-work/ribc/</link>
       <pubDate>Thu, 15 Sep 2016 07:44:09 -0400</pubDate>
       
       <guid>https://mtl87.github.io/recent-work/ribc/</guid>
       <description>
 
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;h3 id=&#34;the-rhode-island-blood-center-ribc-rhode-island-s-foremost-provider-of-life-saving-blood-needed-to-bring-some-life-back-into-their-web-presence-in-this-project-i-collaborated-with-digital-strategists-on-my-team-and-ribc-s-marketing-director-to-refresh-and-deliver-the-site-s-user-experience-and-interface-design&#34;&gt;The Rhode Island Blood Center (RIBC), Rhode Island&amp;rsquo;s foremost provider of life-saving blood, needed to bring some life back into their web presence. In this project, I collaborated with digital strategists on my team and RIBC’s marketing director to refresh and deliver the site’s user experience and interface design.&lt;/h3&gt;
 
-&lt;p&gt;Rhode Island Blood Center (RIBC) is Rhode Island&amp;rsquo;s foremost provider of life-saving blood. Despite being one of the region&amp;rsquo;s most active blood banks, its website-driven donations were underwhelming. RIBC approached ADK with the vision of expanding its life-saving impact by revitalizing their digital platform - building creating modern gateway through which to raise awareness, connect with potential donors, and facilitate donations in a more intuitive and human way.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/ribc/ribc-whiteboards.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;Whiteboard wireframing sessions with RIBC&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;strategy&#34;&gt;Strategy&lt;/h2&gt;
+&lt;p&gt;In our meetings with RIBC, we learned that despite being Rhode Island’s leading collector of blood donations, the website-driven donations and marketing were underwhelming. &lt;strong&gt;This was due, in part, to an outdated site that did not meet today’s best practices in content organization and device accessibility.&lt;/strong&gt; We had a our work cut out. We first started with meeting the RIBC team and stakeholders from all departments and even donors. It was truly great to meet everyone as they left lasting impressions of empathy in the ADK team and myself, which proved very useful for later stages of the redesign.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Accessibility:&lt;/strong&gt; facilitate awareness-building and donations with a clean, intuitive, informative, and responsive web platform&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/ribc/sketch-sprint.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;Sketch sprint of donation sign up&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Community:&lt;/strong&gt; feature stories that support, engage, and highlight RIBC&amp;rsquo;s community of workers, donors, and donees.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We engaged in long sessions of content-mapping and high-level wireframing to determine how to best lay out the new sitemap and user flow.&lt;/strong&gt; Afterwards, plugged our notes into UXPin to help build a prototype/wireframe of the proposed approach. After finessing this through several iterations, it was time for high fidelity design.&lt;/p&gt;
 
-&lt;p&gt;Based on this strategy, we remodeled the site&amp;rsquo;s vast content to transform the story of RIBC into one that was more personable and empathetic. From this content, we created an entirely new pattern library for RIBC.org. I developed prototypes to facilitate and test content with stakeholders, and made high fidelity mockups to ensure a confident sign-off and to assist in development.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/ribc/uxpin.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;UXPin interactive mockup to facilitate design direction&lt;/em&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Meeting with all RIBC stakeholders and understanding their needs and current limitations&lt;/li&gt;
-&lt;li&gt;Spent time understanding users and industry&lt;/li&gt;
-&lt;li&gt;Re-develop content into a new content architecture themed around accessibility and community&lt;/li&gt;
-&lt;li&gt;Rapid sketching sessions to map content into wireframes and test through prototyping&lt;/li&gt;
-&lt;li&gt;Design a pattern library and top priority pages&lt;/li&gt;
-&lt;li&gt;Develop full experience&lt;/li&gt;
-&lt;li&gt;QA test and launch&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I drew inspiration from the Digital Design Standards for the US Goverment in thinking of how to deliver a clean and usable interface for users of all ages and demographics to interact with. &lt;strong&gt;Our content mapping was categorized along two of RIBC’s central themes: Community and Accessibility.&lt;/strong&gt; Community featured stories that support, engage, and highlight RIBC&amp;rsquo;s community of workers, donors, and donees. Accessibility facilitated awareness-building and donations with a clean, intuitive, informative, and responsive web platform.&lt;/p&gt;
 
-&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/ribc/ribc-why-give.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;UXPin interactive mockup to facilitate design direction&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Within the first few hours of the re-launch, appointments were already being made (through the new in-site sign-up application. A few weeks later, mobile traffic had already increased by over 150%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When the project went into development, I provided our developers a &lt;a href=&#34;https://mtl87.github.io/img/ribc/RIBC-style-guide.jpg&#34;&gt;style guide&lt;/a&gt; to refer to as they built.&lt;/strong&gt; The platform was built on Drupal 8, which at the time was the most recent release of the application.&lt;/p&gt;
+
+&lt;p&gt;Within the first few hours of the re-launch, appointments were already being made through the new in-site sign-up application. A few weeks later, mobile traffic had already increased by over 150%.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Capa Microsite</title>
+      <title>Capa Microsite Template</title>
       <link>https://mtl87.github.io/recent-work/capa-microsite/</link>
       <pubDate>Thu, 01 Sep 2016 22:29:53 -0400</pubDate>
       
       <guid>https://mtl87.github.io/recent-work/capa-microsite/</guid>
       <description>
 
-&lt;h3 id=&#34;capa-a-study-abroad-program-provider-tasked-the-adk-team-with-streamlining-the-architecture-of-their-vast-collection-of-program-specific-microsites-their-goal-improved-information-architecture-in-house-microsite-creation-capability-and-enhanced-user-experience&#34;&gt;CAPA, a study abroad program provider, tasked the ADK team with streamlining the architecture of their vast collection of program-specific microsites. Their goal: improved information architecture, in-house microsite creation capability, and enhanced user experience.&lt;/h3&gt;
+&lt;h3 id=&#34;capa-a-study-abroad-program-provider-tasked-the-adk-team-with-redesigning-their-vast-collection-of-program-specific-microsites-my-role-was-twofold-to-assist-with-streamlining-the-content-architecture-and-to-design-a-more-intuitive-user-experience-for-college-student-users&#34;&gt;CAPA, a study abroad program provider, tasked the ADK team with redesigning their vast collection of program-specific microsites. My role was twofold: to assist with streamlining the content architecture, and to design a more intuitive user experience for college student users.&lt;/h3&gt;
 
-&lt;h4 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h4&gt;
+&lt;p&gt;Through our initial interviews, we learned that CAPA’s microsites are multi-purpose: used as both a sales tool for schools and as an informational tool for students in different parts of the buying process. CAPA’s microsites needed to convey a large amount of information to a wide assortment of clients. Unfortunately, their existing strategies for doing so felt confusing and unwieldy.&lt;/p&gt;
 
-&lt;p&gt;We began with interviewing CAPA stakeholders and gathered a important information on the requirements and purpose of the microsites. Important take aways: microsites would all host unique content in different stages of the application for the college student and some colleges would have their study abroad offices manage the microsite.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/capa/capa-cms-architecture.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;New CAPA Wordpress CMS site architecture&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Based on our findings from CAPA interviews and reviewing the current site, I campaigned for a content re-map as a first step. Currently the left navigation was full with one tiered level pages that made for a daunting experience. CAPA team openly approved this and had their team begin bucketing the content.  I brainstormed new maps that bucketed content into broad themes of user-specific information. This laid the foundation for a more coherent design process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Based on our findings, I campaigned for a content re-map as a first step.&lt;/strong&gt; The current navigation was fixed to the left side of the page and displayed all pages in a single-tiered format, creating an overwhelming user experience. I brainstormed with our digital strategist to create new content maps that categorized content into broad themes of user-specific information. We presented these proposed categories to CAPA’s sales and copywriting team. They approved and began to reworking the content categories for all their current microsites.&lt;/p&gt;
 
-&lt;h4 id=&#34;wireframing-and-prototyping&#34;&gt;Wireframing and Prototyping&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/capa/capa-microsite-architecture.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;New CAPA microsite content architecture remap&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I first began sketching designs out of how we could build a less navigation heavy site. to build our site prototypes and demo them to the CAPA team. After receiving immediate approval, we wrapped up final high-fidelity mockups and built out pattern library for new microsite templates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;With the re-mapping phase underway, I met with our technologist and lead developer to help brainstorm the best front-end design for the re-architected microsite ecosystem.&lt;/strong&gt; As this project called for rapid development, we decided to develop a modular system which would reuse the same components for all microsites.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Meeting with all CAPA microsite stakeholders to understand needs and current limitations&lt;/li&gt;
-&lt;li&gt;Re-map content and sitemap to become a single portal for new content&lt;/li&gt;
-&lt;li&gt;Devise a development strategy&lt;/li&gt;
-&lt;li&gt;Prototype designs and present to stakeholders&lt;/li&gt;
-&lt;li&gt;Create high fidelity mockups and style guide&lt;/li&gt;
-&lt;li&gt;Develop&lt;/li&gt;
-&lt;li&gt;QA test and launch&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/capa/capa-mobile-site-mockup.png&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;Responsive grid hosting a mobile optimized design for the mobile navigation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My design process required that I create a user interface style guide and determine how to provide the best overall user experience for all microsites, no matter their content.&lt;/strong&gt; In my sketches, I focused on an omnipresent navigation that allowed for quick accessibility to all content, and the ability to host branding for either CAPA or a specific university.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/capa/capa-tablet.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;The final design resulted in the top fold hosting a slim microsite title with supporting imagery for clear identification of the location, a navigation bar for the main categories, and a clean layout of content to deliver good vertical rhythm.&lt;/p&gt;
 
-&lt;p&gt;Within a short period of time, CAPA&amp;rsquo;s new microsite system launched on our new WordPress build. The new platform now hosts over 80 separate microsites&amp;rsquo; content in one CMS, greatly streamlining content management and brand cohesiveness. The success of this project also opened the door to an opportunity for a main site redesign, currently in development at ADK.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Within a short period of time, we were able to launch CAPA&amp;rsquo;s new microsite system on a new WordPress build.&lt;/strong&gt; The new platform now hosts nearly 100 microsites. By CAPA’s account, the process and user experience have been greatly improved. The success of this project also opened the door to an opportunity for a main site redesign, currently in development at ADK.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Unbound Commerce</title>
+      <title>Mobile Commerce Template</title>
       <link>https://mtl87.github.io/recent-work/unbound-commerce/</link>
       <pubDate>Fri, 01 Jul 2016 22:29:53 -0400</pubDate>
       
       <guid>https://mtl87.github.io/recent-work/unbound-commerce/</guid>
-      <description>&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+      <description>
+
+&lt;h3 id=&#34;as-a-designer-developer-at-unbound-commerce-the-1-mobile-commerce-provider-among-mid-market-retailers-i-helped-create-solutions-to-meet-the-demand-of-the-mobile-commerce-space-one-of-my-proudest-accomplishments-at-unbound-was-delivering-a-premium-mobile-site-template-to-streamline-the-company-s-product-design-processes&#34;&gt;As a designer/developer at Unbound Commerce, the #1 mobile commerce provider among mid-market retailers, I helped create solutions to meet the demand of the mobile commerce space. One of my proudest accomplishments at Unbound was delivering a premium mobile site template to streamline the company’s product design processes.&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;The premium mobile site template is a built-up experience featuring contemporary mobile UI patterns.&lt;/strong&gt; Features of the UI pattern I designed were a multi-functional navigation header that was fixed to the top on scrolling; a featured category slider on the homepage; large thumbnails with additional product details on the category listing pages; a robust product detail page featuring multiple images, additional reviews and product descriptions nested in an accordion; and a fluid template allowing for content and design to stretch to the edges of any device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/unbound/hp-wireframe.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/unbound/product-wireframe.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/unbound/monte-design.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The template design was an iterative process that had me adding and revising features as we gained feedback from clients and discovered new ways to improve user experience and interface.&lt;/strong&gt; Once we were comfortable with this new template, we released it to our Yahoo! Small Business customers as a full product offering (&lt;a href=&#34;https://www.unboundcommerce.com/yahoo-sign-up/&#34;&gt;https://www.unboundcommerce.com/yahoo-sign-up/&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/unbound/bisket-baskets-mockup.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our revamped design aided in netting over 120 new Yahoo! Small Business sign-ups in 2013 (a record high for the company at the time). The template became the new benchmark for building all mobile sites going forward (even for enterprise level), pushing us and our design and e-commerce partners to take mobile more seriously and to consider it as a solution against going responsive.&lt;/p&gt;
 </description>
     </item>
     

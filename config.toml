@@ -9,7 +9,6 @@ copyright = "© 2017 Copyright Text"
 canonifyurls = true
 baseurl = "https://mtl87.github.io"
 googleAnalytics = "Your Tracking Id"
-homepagecover = "img/cat3.jpg"
 
 # Nav
 [[menu.header]]
@@ -19,27 +18,27 @@ homepagecover = "img/cat3.jpg"
 [[menu.header]]
   name = "Resume"
   weight = 2
-  url = "#"
+  url = "img/matthew-landers-resume.pdf"
   identifier = "resume"
 
 # Footer Nav
 [[menu.footer]]
-  name = "Resume"
-  weight = 1
-  url = "#"
-[[menu.footer]]
   name = "LinkedIn"
-  weight = 2
+  weight = 1
   url = "https://www.linkedin.com/in/mtlanders"
+  identifier = "linkedin"
 [[menu.footer]]
   name = "Dribbble"
-  weight = 3
+  weight = 2
   url = "https://dribbble.com/landahhs"
+  identifier = "dribbble"
 [[menu.footer]]
   name = "GitHub"
-  weight = 4
+  weight = 3
   url = "https://github.com/mtl87?tab=overview&from=2016-08-01&to=2016-08-31&utf8=%E2%9C%93"
+  identifier = "github"
 [[menu.footer]]
   name = "Instagram"
-  weight = 5
+  weight = 4
   url = "https://www.instagram.com/landahhs/"
+  identifier = "instagram"

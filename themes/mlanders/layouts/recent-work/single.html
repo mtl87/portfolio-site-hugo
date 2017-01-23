@@ -41,6 +41,10 @@
           <h4>Designed For</h4>
           <p>{{ . }}</p>
         {{ end }}
+        {{ with .Params.site_url }}
+          <h4>Link</h4>
+          <p><a href="{{ . }}">Click Here</a></p>
+        {{ end }}
       </div>
     </article>
   </section>

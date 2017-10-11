@@ -18,7 +18,7 @@ site_url = "http://www.conviserpg.com/"
 
 +++
 
-The commercial real estate firm Conviser prides itself on being one of Boston’s best “place-makers”. Specializing in retail spaces for food and apparel, it is one of the region’s most successful brokerages. **Conviser tasked ADK with a rebrand that would better reflect its prestige.** I was tasked with designing the company’s new logo and managing the brand accoutrements for web and print.
+Conviser prides itself on being one of Boston’s best “place-makers” for commercial real estate. Specializing in retail spaces for food and apparel, it is one of the region’s most successful brokerages. **Conviser tasked ADK with a rebrand that would better reflect its prestige.** I was tasked with designing the company’s new logo and managing the brand accoutrements for web and print.
 
 ![alt](/img/conviser/conviser-lockup.jpg)
 

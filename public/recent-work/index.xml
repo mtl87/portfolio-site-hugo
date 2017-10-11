@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent-works on Matthew Landers - Design &#43; Code</title>
+    <title>Recent-works on Matthew Landers - Digital Designer</title>
     <link>https://mtl87.github.io/recent-work/</link>
-    <description>Recent content in Recent-works on Matthew Landers - Design &#43; Code</description>
+    <description>Recent content in Recent-works on Matthew Landers - Digital Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Copyright Text</copyright>
@@ -38,7 +38,7 @@
       <pubDate>Thu, 01 Dec 2016 22:29:53 -0400</pubDate>
       
       <guid>https://mtl87.github.io/recent-work/conviser-redesign/</guid>
-      <description>&lt;p&gt;The commercial real estate firm Conviser prides itself on being one of Boston’s best “place-makers”. Specializing in retail spaces for food and apparel, it is one of the region’s most successful brokerages. &lt;strong&gt;Conviser tasked ADK with a rebrand that would better reflect its prestige.&lt;/strong&gt; I was tasked with designing the company’s new logo and managing the brand accoutrements for web and print.&lt;/p&gt;
+      <description>&lt;p&gt;Conviser prides itself on being one of Boston’s best “place-makers” for commercial real estate. Specializing in retail spaces for food and apparel, it is one of the region’s most successful brokerages. &lt;strong&gt;Conviser tasked ADK with a rebrand that would better reflect its prestige.&lt;/strong&gt; I was tasked with designing the company’s new logo and managing the brand accoutrements for web and print.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/conviser/conviser-lockup.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
 
@@ -80,7 +80,7 @@
 
 &lt;p&gt;I drew inspiration from the Digital Design Standards for the US Goverment in thinking of how to deliver a clean and usable interface for users of all ages and demographics to interact with. &lt;strong&gt;Our content mapping was categorized along two of RIBC’s central themes: Community and Accessibility.&lt;/strong&gt; Community featured stories that support, engage, and highlight RIBC&amp;rsquo;s community of workers, donors, and donees. Accessibility facilitated awareness-building and donations with a clean, intuitive, informative, and responsive web platform.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/ribc/ribc-why-give.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;UXPin interactive mockup to facilitate design direction&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mtl87.github.io/img/ribc/ribc-why-give.jpg&#34; alt=&#34;alt&#34; /&gt; &lt;em&gt;Final visual design handed off to development using Zeplin&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;When the project went into development, I provided our developers a &lt;a href=&#34;https://mtl87.github.io/img/ribc/RIBC-style-guide.jpg&#34;&gt;style guide&lt;/a&gt; to refer to as they built.&lt;/strong&gt; The platform was built on Drupal 8, which at the time was the most recent release of the application.&lt;/p&gt;
 

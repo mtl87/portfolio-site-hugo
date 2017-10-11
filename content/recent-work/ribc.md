@@ -27,7 +27,7 @@ In our meetings with RIBC, we learned that despite being Rhode Island’s leadin
 
 I drew inspiration from the Digital Design Standards for the US Goverment in thinking of how to deliver a clean and usable interface for users of all ages and demographics to interact with. **Our content mapping was categorized along two of RIBC’s central themes: Community and Accessibility.** Community featured stories that support, engage, and highlight RIBC's community of workers, donors, and donees. Accessibility facilitated awareness-building and donations with a clean, intuitive, informative, and responsive web platform.
 
-![alt](/img/ribc/ribc-why-give.jpg) *UXPin interactive mockup to facilitate design direction*
+![alt](/img/ribc/ribc-why-give.jpg) *Final visual design handed off to development using Zeplin*
 
 **When the project went into development, I provided our developers a [style guide](/img/ribc/RIBC-style-guide.jpg) to refer to as they built.** The platform was built on Drupal 8, which at the time was the most recent release of the application.
 

@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Matthew Landers - Design + Code"
+title = "Matthew Landers - Digital Designer"
 theme = "mlanders"
 contentDir = "content"
 layoutDir = "layouts"
@@ -8,7 +8,7 @@ paginate = 10
 copyright = "© 2017 Copyright Text"
 canonifyurls = true
 baseurl = "https://mtl87.github.io"
-googleAnalytics = "Your Tracking Id"
+googleAnalytics = "UA-88462119-1"
 
 # Nav
 [[menu.header]]
